@@ -1,0 +1,27 @@
+{
+  "name": "youtube-alarm-clock",
+  "version": "1.0.0",
+  "description": "```\r node index.js https://www.youtube.com/watch?v=V-_O7nl0Ii0 \"2 minutes from now\"\r ```\r ## More Examples Of Usage Dealing With The Time Parameter\r ##### Only Double Quotes Can Be Used\r ```\r \"at 5pm\"\r \"monday at 1:00am\"\r \"2 years from yesterday at 5pm\"\r `",
+  "main": "index.js",
+  "dependencies": {
+    "date.js": "^0.3.3",
+    "node-schedule": "^2.0.0",
+    "open": "^8.0.9",
+    "chalk": "^4.1.1",
+    "promise": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyler320sc/YouTube-Alarm-Clock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tyler320sc/YouTube-Alarm-Clock/issues"
+  },
+  "homepage": "https://github.com/Tyler320sc/YouTube-Alarm-Clock#readme"
+}
