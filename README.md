@@ -1,7 +1,18 @@
 # YouTube-Alarm-Clock
 
+## Description 
+#### YouTube-Alarm-Clock is a simple alarm clock that uses your cmd line as the interphase. It allows a user to pick any youtube video, copy the URL and schedule the video to play at a time of the users choosing.
+
 ## Usage
 ##### 
+Type the following in your terminal, in a folder where you don't mind the project appearing. That will copy the project to your computer (and create a new folder).
+```
+git clone https://github.com/Tyler320sc/YouTube-Alarm-Clock.git
+```
+#### To go into that directory 
+```
+cd YouTube-Alarm-Clock
+```
 ```
 npm install
 ```
